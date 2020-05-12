@@ -1,4 +1,4 @@
-# useState() Part 2 - Changing State
+# React random color and number
 
 Quick start:
 
