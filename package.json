@@ -1,9 +1,11 @@
 {
-  "name": "caZkM8UM",
+  "name": "React Random COLOURNUM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
-    "react": "16.10.1",
-    "react-dom": "16.10.1",
-    "randomcolor": "0.5.4"
+    "react": "16.4.0",
+    "react-dom": "16.13.0"
   },
   "devDependencies": {
     "webpack": "^2.0",
@@ -15,5 +17,8 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w"
-  }
+  },
+  "keywords": [],
+  "author": "David Ayo ⚡",
+  "license": "ISC"
 }
